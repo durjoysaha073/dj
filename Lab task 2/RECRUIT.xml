@@ -1,0 +1,29 @@
+<RECRUIT>
+
+
+
+<Employee1>
+<slNo.>23</slNO.>
+<name> John Carter </name>
+<admission_date> 25/12/2015 </admission_date>
+</Employee1>
+
+
+
+<Employee2>
+<slNo.>29</slNO.>
+<name> Bob Marshal </name>
+<admission_date> 13/01/1999 </admission_date>
+</Employee2>
+
+
+
+<Employee3>
+<slNo.>35</slNO.>
+<name> Clark Kent </name>
+<admission_date> 17/06/2005 </admission_date>
+</Employee3>
+
+
+
+</RECRUIT>

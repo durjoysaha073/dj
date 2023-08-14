@@ -1,0 +1,4 @@
+C:\Users\student\source\repos\service\obj\Debug\service.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\service\obj\Debug\service.Properties.Resources.resources
+C:\Users\student\source\repos\service\obj\Debug\service.csproj.GenerateResource.cache
+C:\Users\student\source\repos\service\obj\Debug\service.csproj.CoreCompileInputs.cache
